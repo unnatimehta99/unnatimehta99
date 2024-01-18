@@ -22,7 +22,7 @@
 <p align="center"> 
   <samp>
     Crafting tomorrow’s canvas with today’s data, I carve intricate datasets into clear roadmaps for impactful decisions.
-    Armed with a Master's in Data Analytics Engineering and Applied Statistics, I specialize in Predictive Modeling, Data Pipelines, and Crafting Interactive Visualizations. Let's embark on a journey of uncovering meaningful insights in the vast realm of data together!"
+    Armed with a Master's in Data Analytics Engineering and Applied Statistics, I specialize in Predictive Modeling, Data Pipelines, and Crafting Interactive Visualizations. Let's embark on a journey of uncovering meaningful insights in the vast realm of data together!
     <br>
     <br>
   </samp>
